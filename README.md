@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.png" width="100" alt="Sovereign Logo"/>
+  <img src="/frontend/public/logo.png" width="100" alt="Sovereign Logo"/>
 </p>
 
 <h1 align="center">SOVEREIGN</h1>
