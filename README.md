@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-crown.svg" width="100" alt="Sovereign Logo"/>
+  <img src="/logo.png" width="100" alt="Sovereign Logo"/>
 </p>
 
 <h1 align="center">SOVEREIGN</h1>
