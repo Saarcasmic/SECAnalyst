@@ -3,8 +3,8 @@ name: Keep Alive
 on:
   # Run every 5 minutes
   schedule:
-    - cron: '*/2 * * * *'
-  # Allow manual triggering from the UI
+    - cron: '*/5 * * * *'
+  # Allow you to click "Run workflow" manually for testing
   workflow_dispatch:
 
 jobs:
@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping Render Backend
-        # We use -I (Head) and -L (Follow Redirects) and -v (Verbose) to see details
-        run: curl -I -L -v https://sovereign-backend-xu6i.onrender.com/health
+        # curl by default uses GET. We add -L to follow redirects and -v to see logs.
+        run: curl -L -v https://sovereign-backend-xu6i.onrender.com/health
