@@ -143,7 +143,7 @@ const ChatInterface = () => {
             id: aiMessageId,
             sender: 'ai',
             content: '',
-            thinkingSteps: [],
+            thinkingSteps: ["Initializing agent..."],
             isThinkingOpen: true,
             isDone: false,
             isChart: false
