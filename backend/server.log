@@ -1,0 +1,20 @@
+INFO:     Will watch for changes in these directories: ['/Users/saar/dev/SECAnalyst/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [27139] using StatReload
+INFO:     Started server process [27180]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Initializing Orchestrator...
+Index 'sec-financial-index' already exists.
+INFO:     127.0.0.1:61864 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61864 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64581 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64581 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64677 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65303 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65303 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49218 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49218 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50807 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50807 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50913 - "POST /chat HTTP/1.1" 200 OK

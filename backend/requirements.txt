@@ -1,0 +1,14 @@
+requests
+python-dotenv
+pandas
+SQLAlchemy
+beautifulsoup4
+langchain-text-splitters
+openai
+pinecone
+langchain
+langchain-openai
+fastapi
+uvicorn
+
+
