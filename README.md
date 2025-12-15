@@ -26,12 +26,12 @@
 ## 📺 Tutorial Video
 
 <p align="center">
-  <a href="#">
-    <img src="https://placehold.co/800x450/1a1a2e/ffffff?text=Tutorial+Video+Coming+Soon" alt="Tutorial Video Placeholder" width="100%"/>
-  </a>
-</p>
+  
 
-<p align="center"><em>Click to watch the full walkthrough (coming soon)</em></p>
+https://github.com/user-attachments/assets/21db65a0-8f98-42ad-bfbe-62172da86d4d
+
+
+</p>
 
 ---
 
